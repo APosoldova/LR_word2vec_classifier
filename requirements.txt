@@ -1,0 +1,10 @@
+Flask
+requests
+pytest
+gensim
+nltk
+json
+pickle
+logging
+python
+anaconda
